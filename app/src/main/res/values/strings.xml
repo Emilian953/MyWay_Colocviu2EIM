@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string-array name="dropdown_content">
+        <item>temperature</item>
+        <item>wind_speed</item>
+        <item>condition</item>
+        <item>pressure</item>
+        <item>humidity</item>
+        <item>all</item>
+    </string-array>
+</resources>
